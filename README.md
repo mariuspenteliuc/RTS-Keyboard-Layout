@@ -6,7 +6,7 @@ This is a keyboard layout for the 19<sup>th</sup>-century Romanian Transitional 
 > This can span multiple lines
 
 > **PLUS:** Body of the note
-> This can span multiple lines
+> This can <span style="color:blue">span</span> multiple lines
 
 ## Installation
 1. Copy the `RTS.bundle` file to one of the following locations:
