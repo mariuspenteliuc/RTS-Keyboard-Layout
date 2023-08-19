@@ -1,9 +1,6 @@
 # RTS-Keyboard-Layout
 This is a keyboard layout for the 19<sup>th</sup>-century Romanian Transitional Script (RTS). It includes the most common characters used in Romanian texts from the 19<sup>th</sup> century, including both Cyrillic and Latin letters.
 
-### Sponsor me
-If you find this keyboard layout useful, please consider sponsoring me on GitHub. I am a PhD student and I am working on this project in my free time. Your support will help me continue to develop this keyboard layout and other projects.
-
 ## Installation
 1. Copy the `RTS.bundle` file to one of the following locations:
 * `/Library/Keyboard Layouts` (for all users)
