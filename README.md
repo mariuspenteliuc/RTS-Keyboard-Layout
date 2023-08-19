@@ -2,8 +2,7 @@
 This is a keyboard layout for the 19<sup>th</sup>-century Romanian Transitional Script (RTS). It includes the most common characters used in Romanian texts from the 19<sup>th</sup> century, including both Cyrillic and Latin letters.
 
 > [!NOTE]
-> Body of the note
-> This can span multiple lines
+> + previous tier's benefits
 
 > **PLUS:** Body of the note
 > This can <span style="color:blue">span</span> multiple lines
