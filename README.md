@@ -4,6 +4,12 @@ This is a keyboard layout for the 19<sup>th</sup>-century Romanian Transitional 
 > [!NOTE]
 > \+ previous benefits
 
+> [!NOTE]
+> **\+** previous benefits
+
+> [!NOTE]
+> **PLUS** previous benefits
+
 > **PLUS:** Body of the note
 > This can <span style="color:blue">span</span> multiple lines
 
